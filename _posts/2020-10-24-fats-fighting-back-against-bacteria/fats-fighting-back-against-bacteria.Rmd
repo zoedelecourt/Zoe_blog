@@ -27,6 +27,7 @@ University of Queenlands researchers have discovered that lipid droplets fight b
 
 ## Source of the article with publication date and word count :
 Source of the article : <https://www.genengnews.com/news/fat-droplets-in-cells-rally-against-bacteria/>[link] published on 16 October 2020 and accessed on 24/10/2020
+
 Word count : 548
 
 ## Vocabulary: 
@@ -38,24 +39,14 @@ Word count : 548
 |    superbug       | bacteria which is resistant to antibiotic |     super-bactérie       |
 |   to ramp up       |         to increase          |       augmenter     |
 
-|                    |                               |                    |
-|                    |                               |                    |
-|                    |                               |                    |
-|                    |                               |                    |
-|                    |                               |                    |
-|                    |                               |                    |
-|                    |                               |                    |
-|                    |                               |                    |
-|                    |                               |                    |
-|                    |                               |                    |
 
 ## Analysis table
 
 
-| Researchers 	|  University of Queensland : Professor Robert Parton and Professor Matt Sweet  |
+| Researchers 	|    University of Queensland : Professor Robert Parton and Professor Matt Sweet  |
 | Published in? 	| Science (16/10/20) 	|
 | General topic? 	| lipid droplets fighting against infections	|
-| Procedure/what was examined? 	| In liver cells of a mouse, they observed how the lipid droplet proteome (the entire set of proteins) react to  the bacterial toxin lipopolysaccharide. The proteome grew bigger and the lipid droplet increased the number of proteins with an antimicrobial activity. Then the droplets went to the infected site   |
-| Conclusions/discovery? 	| Fat helping our immune system will be very uselful in particular with antibiotic-resistant superbugs|
+| Procedure/what was examined? 	| In liver cells of a mouse, they observed how the lipid droplet proteome (the entire set of proteins) react to  the bacterial toxin lipopolysaccharide. The proteome grew bigger and the lipid droplet increased the number of proteins with an antimicrobial activity. Then the droplets went to the infected site 	|
+| Conclusions/discovery? 	| Fat helping our immune system will be very uselful in particular with antibiotic-resistant superbugs  	|
 | Remaining questions? 	| How do fatty droplets target the pathogens? 	|
 
