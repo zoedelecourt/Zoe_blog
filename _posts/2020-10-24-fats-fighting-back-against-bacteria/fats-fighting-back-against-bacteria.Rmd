@@ -10,6 +10,8 @@ author:
   - name: Engels Guyliann
     url: https://guyliann.netlify.com/fr
 date: 10-24-2020
+categories:
+  - "English for Science"
 output:
   distill::distill_article:
     self_contained: false

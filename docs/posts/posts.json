@@ -29,6 +29,31 @@
     "preview_height": 2667
   },
   {
+    "path": "posts/2020-10-24-fats-fighting-back-against-bacteria/",
+    "title": "Fats fighting back against bacteria",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "De Le Court Zoé",
+        "url": {}
+      },
+      {
+        "name": "Nicolas Devilez",
+        "url": {}
+      },
+      {
+        "name": "Engels Guyliann",
+        "url": "https://guyliann.netlify.com/fr"
+      }
+    ],
+    "date": "2020-10-24",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2020-10-24T17:42:00+02:00"
+  },
+  {
     "path": "posts/2019-10-25-biggest-rodent/",
     "title": "Biggest rodent",
     "description": "Analysis of \"Biggest rodent 'fought with teeth' like tusks\"",
