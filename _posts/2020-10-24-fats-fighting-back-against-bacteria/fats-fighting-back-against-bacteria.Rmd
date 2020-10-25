@@ -42,11 +42,19 @@ Word count : 548
 
 ## Analysis table
 
+- Researchers? 
+    + University of Queensland : Professor Robert Parton and Professor Matt Sweet 
 
-| Researchers 	|    University of Queensland : Professor Robert Parton and Professor Matt Sweet  |
-| Published in? 	| Science (16/10/20) 	|
-| General topic? 	| lipid droplets fighting against infections	|
-| Procedure/what was examined? 	| In liver cells of a mouse, they observed how the lipid droplet proteome (the entire set of proteins) react to  the bacterial toxin lipopolysaccharide. The proteome grew bigger and the lipid droplet increased the number of proteins with an antimicrobial activity. Then the droplets went to the infected site 	|
-| Conclusions/discovery? 	| Fat helping our immune system will be very uselful in particular with antibiotic-resistant superbugs  	|
-| Remaining questions? 	| How do fatty droplets target the pathogens? 	|
+- Published in? when (if mentioned)?
+    + Science (16/10/20)  
 
+- General topic
+    + lipid droplets fighting against infections) 
+- Procedure/what was examined
+    + In liver cells of a mouse, they observed how the lipid droplet proteome (the entire set of proteins) react to  the bacterial toxin lipopolysaccharide. The proteome grew bigger and the lipid droplet increased the number of proteins with an antimicrobial activity. Then the droplets went to the infected site
+    
+- Conclusions/ discovery
+    + Fat helping our immune system will be very uselful in particular with antibiotic-resistant superbugs
+
+- Remaining questions ? 
+    +How do fatty droplets target the pathogens?
