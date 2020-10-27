@@ -14,6 +14,7 @@ navbar:
 base_url: zoedelecourt.github.io/Zoe_blog/
 collections:
     posts:
+      disqus: zoe-blog
       share: [twitter, linkedin, facebook]
       #disqus: 
 output:
