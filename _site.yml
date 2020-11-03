@@ -11,12 +11,13 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/zoedelecourt/Zoe_blog.git
-base_url: zoedelecourt.github.io/Zoe_blog/
+base_url: http://zoedelecourt.github.io/Zoe_blog/
 collections:
     posts:
-      disqus: zoe-blog
+      disqus:
+        shortname: zoe-blog
+        hidden: false
       share: [twitter, linkedin, facebook]
-      #disqus: 
 output:
   distill::distill_article:
     css: style.css

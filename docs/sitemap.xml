@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>zoedelecourt.github.io/Zoe_blog/</loc>
+    <loc>http://zoedelecourt.github.io/Zoe_blog/</loc>
     <lastmod>2020-10-14T14:05:33+02:00</lastmod>
   </url>
   <url>
-    <loc>zoedelecourt.github.io/Zoe_blog/posts/2019-10-24-bacteria-antobiotics/</loc>
+    <loc>http://zoedelecourt.github.io/Zoe_blog/posts/2019-10-24-bacteria-antobiotics/</loc>
     <lastmod>2020-10-24T11:36:28+02:00</lastmod>
   </url>
   <url>
-    <loc>zoedelecourt.github.io/Zoe_blog/posts/2020-10-24-fats-fighting-back-against-bacteria/</loc>
+    <loc>http://zoedelecourt.github.io/Zoe_blog/posts/2020-10-24-fats-fighting-back-against-bacteria/</loc>
     <lastmod>2020-10-25T12:53:25+01:00</lastmod>
   </url>
   <url>
-    <loc>zoedelecourt.github.io/Zoe_blog/posts/2019-10-25-biggest-rodent/</loc>
+    <loc>http://zoedelecourt.github.io/Zoe_blog/posts/2019-10-25-biggest-rodent/</loc>
     <lastmod>2020-10-14T14:05:33+02:00</lastmod>
   </url>
   <url>
-    <loc>zoedelecourt.github.io/Zoe_blog/posts/about/</loc>
+    <loc>http://zoedelecourt.github.io/Zoe_blog/posts/about/</loc>
     <lastmod>2020-10-14T14:05:33+02:00</lastmod>
   </url>
   <url>
-    <loc>zoedelecourt.github.io/Zoe_blog/posts/meal/</loc>
+    <loc>http://zoedelecourt.github.io/Zoe_blog/posts/meal/</loc>
     <lastmod>2020-10-14T14:05:33+02:00</lastmod>
   </url>
 </urlset>
