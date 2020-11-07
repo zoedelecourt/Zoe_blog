@@ -1,32 +1,36 @@
 [
   {
-    "path": "posts/2019-10-24-bacteria-antobiotics/",
-    "title": "Bacterium adaptation",
-    "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",
+    "path": "posts/about/",
+    "title": "About Me",
+    "description": {},
     "author": [
       {
-        "name": "Student Unknown",
+        "name": "Zoé De Le Court",
         "url": {}
-      },
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
       }
     ],
-    "date": "2020-10-24",
+    "date": "2020-11-07",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-11-07T17:30:07+01:00"
+  },
+  {
+    "path": "posts/meal/",
+    "title": "My English Activity Log : MEAL",
+    "description": {},
+    "author": [
+      {
+        "name": "Zoé De Le Court",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-07",
     "categories": [
       "English for Science",
-      "Bacteria",
-      "Adaptation"
+      "M.E.A.L."
     ],
-    "preview": "posts/2019-10-24-bacteria-antobiotics/images/jpg120051fa.png",
-    "last_modified": "2020-10-24T11:36:28+02:00",
-    "preview_width": 3333,
-    "preview_height": 2667
+    "preview": {},
+    "last_modified": "2020-11-07T17:30:28+01:00"
   },
   {
     "path": "posts/2020-10-24-fats-fighting-back-against-bacteria/",
@@ -43,66 +47,6 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2020-10-25T12:53:25+01:00"
-  },
-  {
-    "path": "posts/2019-10-25-biggest-rodent/",
-    "title": "Biggest rodent",
-    "description": "Analysis of \"Biggest rodent 'fought with teeth' like tusks\"",
-    "author": [
-      {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Van Lancker Ingrid",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "Paleontology",
-      "Rodent"
-    ],
-    "preview": {},
-    "last_modified": "2020-10-14T14:05:33+02:00"
-  },
-  {
-    "path": "posts/about/",
-    "title": "About Me",
-    "description": {},
-    "author": [
-      {
-        "name": "___",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-10-14T14:05:33+02:00"
-  },
-  {
-    "path": "posts/meal/",
-    "title": "My English Activity Log : MEAL",
-    "description": {},
-    "author": [
-      {
-        "name": "___",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-01",
-    "categories": [
-      "English for Science",
-      "M.E.A.L."
-    ],
-    "preview": {},
-    "last_modified": "2020-10-14T14:05:33+02:00"
+    "last_modified": "2020-11-07T17:59:00+01:00"
   }
 ]
