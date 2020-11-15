@@ -4,7 +4,7 @@ description: |
   Lipid droplets help our immune system in the struggling against infections.
 author:
   - name: De Le Court Zoé
-    url: {}
+    url: {https://github.com/zoedelecourt}
 
 date: 10-24-2020
 categories:

@@ -1,10 +1,10 @@
 ---
 title: "graphic description"
 description: |
-  Analysis of a graphic about urchin for my ssd class.
+  Analysis of a graphic about urchins for my ssd class.
 author:
   - name: Zoé De Le Court
-    url: {}
+    url: {https://github.com/zoedelecourt}
 date: 11-14-2020
 categories:
   - "Data Sciences I"
@@ -12,28 +12,27 @@ output:
   distill::distill_article:
     self_contained: false
 
- 
-
 ---
-```{r setup}
-SciViews::R
-```
-
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+SciViews::R
 ```
 
 ```{r}
 data <- read("urchin_bio", package = "data.io")
-
 ```
 
-The graphic below is made thanks to a data about sea urchins biometry. It is composed of 19 variables which represent different measurements on Paracentrotus lividus sea urchins. It could be interesting here to compare their origins, farm or fishery and see de differences.
+
+The graphic below is made thanks to a data about sea urchins biometry. It is composed of 19 variables which represent different measurements on Paracentrotus lividus sea urchins. Here it could be interesting  to compare their origins, farm or fishery and see de differences.
+
+
+# Dry weight of integuments according to total weight
 
 ```{r}
 chart(data, dry_integuments ~ weight %col=% origin)+
   geom_point(na.rm = TRUE)
 ```
+
+
 
 On the graphic, we observe that the total weight and the weight of the dry integuments have a linear relation. Both lines, fishery and farm, increase sharply as the total weight rises but farm urchin line increases slightly less than the fishery urchin line which means that for the same weight, the fishery urchins have a heavier dry weight of integuments.
 
