@@ -9,6 +9,7 @@ author:
 date: 10-24-2020
 categories:
   - "English for Science"
+preview : /media/sf_shared/image/fat droplets.png
 output:
   distill::distill_article:
     self_contained: false
@@ -17,6 +18,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![3D electron microscopy of macrophage infected by bacteria (blue) showing lipid droplets (green) and the cell surface (pink). (Institute for Molecular Bioscience, University of Queensland)](/media/sf_shared/image/fat droplets.png)
 
 ## Summary 
 
