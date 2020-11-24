@@ -22,7 +22,7 @@ data <- read("urchin_bio", package = "data.io")
 ```
 
 
-The graphic below is made thanks to a data about sea urchins biometry. It is composed of 19 variables which represent different measurements on Paracentrotus lividus sea urchins. Here it could be interesting  to compare their origins, farm or fishery and see de differences.
+The graphic below is made thanks to a data about sea urchins biometry. It is composed of 19 variables which represent different measurements on Paracentrotus lividus sea urchins. It could be interesting  to compare their origins, farm or fishery and see de differences.
 
 
 # Dry weight of integuments according to total weight
