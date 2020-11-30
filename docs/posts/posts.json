@@ -25,7 +25,9 @@
     "author": [
       {
         "name": "Zoé De Le Court",
-        "url": {}
+        "url": {
+          "https://github.com/zoedelecourt": {}
+        }
       }
     ],
     "date": "2020-11-15",
@@ -64,7 +66,10 @@
     "author": [
       {
         "name": "Zoé De Le Court",
-        "url": {}
+        "url": {
+           "https://github.com/zoedelecourt": {}
+        }
+         
       }
     ],
     "date": "2020-11-07",
