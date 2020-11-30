@@ -5,7 +5,7 @@ author:
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
-I'm Zoé De Le Court, a 19 years old student in Biologie and I'm already in my second year! I chose this study at first because I liked sciences and I was really interested in how the human functions and how to cure diseases but I knew I didn't want to become a physician. In the end I truly enjoy most of my classes even though in the beginning I was scared I wouldn't like studying plants or animals. 
+I'm Zoé De Le Court, a 19 years old student in Biology and I'm already in my second year! I chose this study at first because I liked sciences and I was really interested in how the human functions and how to cure diseases but I knew I didn't want to become a physician. In the end I truly enjoy most of my classes even though in the beginning I was scared I wouldn't like studying plants or animals. 
 
 As a part of my studies, I have an English class with Mrs Bouchet and that why I created this blog, I hope you'll appreciate it ! 
 
