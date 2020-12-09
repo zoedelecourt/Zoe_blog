@@ -1,0 +1,57 @@
+---
+title: "Medicine-carriers made from human cells can cure lung infections"
+description: |
+  
+author:
+  - name: Zoé De Le Court
+    url: {https://github.com/zoedelecourt}
+date: 12-09-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Summary 
+Researchers injected anti-inflammatory and antibiotic into empty white cells to target the infected mouse lungs 
+
+
+## Source of the article with publication date and word count :
+Source of the [article](https://www.genengnews.com/topics/drug-discovery/lung-meds-delivered-by-neutrophil-derived-nanovesicles/).
+Published on  December 3, 2020 and accessed on December 9, 2020
+
+Word count : 415
+
+## Vocabulary: 
+| Word from the text | Synonym/definition in English | French translation |
+|--------------------|-------------------------------|--------------------|
+| carrier            | a device that move something  | transporteur       |
+| to retain          | to keep                       | conserver          |
+| to conduct         | to carry out                  | mener              |
+|                    |                               |                    |
+|                    |                               |                    |
+|                    |                               |                    |
+|                    
+
+## Analysis table
+
+- Researchers? 
+    + Jin Gao, Zhenjia Wang and their research team at Washington State University
+
+- Published in? when (if mentioned)?
+    + Communications Biology (16 November 2020)
+
+- General topic
+    + Neutrophils (white blood cells) normally target inflamed areas. This ability inspired scientists to use neutrophils to carry drugs to infected mouse lungs.
+- Procedure/what was examined
+    + First, scientists emptied neutrophils to form nanovesicules of 100 to 200 nanometers wide. Then, they filled them with two medicines : an antibiotic and an anti-inflammatory (resolvinD1). After that, they injected the neutrophils in a mouse infected with *P. aeruginosa*, a pathogen usually caught in hospital and which can be deadly. As the white cells retained some of their former properties, neutrophils will go directly to the infected site: the lungs.
+    
+- Conclusions/ discovery
+    + This technology is efficient to treat lung inflammation
+    + Tests still have to be carried out to prove the safety and the effectiveness of the technique on humans but if it is proven safe, it could be very useful in the struggle against infectious diseases, especially Covid-19
+- Remaining questions ? 
+    + /
+

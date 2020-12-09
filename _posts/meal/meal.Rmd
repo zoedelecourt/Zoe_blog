@@ -10,12 +10,14 @@ output: distill::distill_article
 ---
 Here are a some activities I did in English
 
--Every night for at least 6 month, I've watched some episodes of "How I met your mother" and I've fallen asleep in front of it. It's one of my favorite series, I've already watched it once, it's very funny but it also give you life lessons. As it is a series of nine seasons you have the time to become attached to the characters. The end is not liked by all and I understand why but I still enjoyed and was moved by the end of this series.
+-Every night for at least 6 month, I've watched some episodes of "How I met your mother" and I've fallen asleep in front of it. It's one of my favorite series, I've already watched it once, it's very funny but it also give you life lessons. As it is a series of nine seasons, you have the time to become attached to the characters. The end is not liked by all and I understand why but I still enjoyed and was moved by the end of this series.
 
--In September, I watched a lot of David Drobrik's vlog on youtube. His videos consist of doing stupid things with his friends but  it makes me laugh a lot. 
+-In September, I watched a lot of David Drobrik's vlog on youtube. His videos consist of doing stupid things with his friends but it makes me laugh a lot. 
 
 -September 26th : I started watching the series "How to get away with murder"
 
 -October 15th : I watched the movie Joker in English with English subtitles
 
--November 24th : i finished watching the haunting of Bly manor
+-November 24th : I finished watching the haunting of Bly manor
+
+-December 9th : I watched the queen's gambit
