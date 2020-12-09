@@ -6,6 +6,8 @@ author:
   - name: Zoé De Le Court
     url: {https://github.com/zoedelecourt}
 date: 12-09-2020
+categories:
+  - "English for Science"
 output:
   distill::distill_article:
     self_contained: false
@@ -20,7 +22,7 @@ Researchers injected anti-inflammatory and antibiotic into empty white cells to 
 
 
 ## Source of the article with publication date and word count :
-Source of the [article](https://www.genengnews.com/topics/drug-discovery/lung-meds-delivered-by-neutrophil-derived-nanovesicles/).
+Source of the [article](https://phys.org/news/2020-12-medicine-carriers-human-cells-lung-infections.html).
 Published on  December 3, 2020 and accessed on December 9, 2020
 
 Word count : 415
