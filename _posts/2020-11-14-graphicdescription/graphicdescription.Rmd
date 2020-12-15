@@ -8,6 +8,7 @@ author:
 date: 11-14-2020
 categories:
   - "Data Sciences I"
+preview: urchin.JPG
 output:
   distill::distill_article:
     self_contained: false
@@ -27,7 +28,7 @@ The graphic below is made thanks to a data about sea urchins biometry. It is com
 
 # Dry weight of integuments according to total weight
 
-```{r}
+```{r, preview=FALSE}
 chart(data, dry_integuments ~ weight %col=% origin)+
   geom_point(na.rm = TRUE)
 ```

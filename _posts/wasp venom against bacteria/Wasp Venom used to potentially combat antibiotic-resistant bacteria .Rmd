@@ -1,12 +1,14 @@
 ---
-title: "Wasp Venom used to potentially combat antibiotic-resistant bacteria "
+title: "Article 2"
 description: |
+  Wasp Venom used to potentially combat antibiotic-resistant bacteria
 author:
   - name: Zoé De Le Court
-    url: {https://github.com/zoedelecourt}
+    url: https://github.com/zoedelecourt
 date: 11-24-2020
 categories:
   - "English for Science"
+preview: wasp.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -21,7 +23,8 @@ Scientists found out that some polypeptides toxin from wasp venom could be very 
 
 
 ## Source of the article with publication date and word count :
-Source of the article : <https://www.genengnews.com/topics/drug-discovery/wasp-venom-used-to-potentially-combat-antibiotic-resistant-bacteria/>[link] published on  October 14, 2020 and accessed on November 24, 2020
+Source of the [article](https://www.genengnews.com/topics/drug-discovery/wasp-venom-used-to-potentially-combat-antibiotic-resistant-bacteria/).
+Published on  October 14, 2020 and accessed on November 24, 2020
 
 Word count : 627
 

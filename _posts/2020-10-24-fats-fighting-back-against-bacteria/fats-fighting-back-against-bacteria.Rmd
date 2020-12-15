@@ -1,15 +1,15 @@
 ---
-title: "Fats fighting back against bacteria"
+title: "Article 1"
 description: |
-  Lipid droplets help our immune system in the struggling against infections.
+  Fats fighting back against bacteria
 author:
   - name: De Le Court Zoé
-    url: {https://github.com/zoedelecourt}
+    url: https://github.com/zoedelecourt
 
 date: 10-24-2020
 categories:
   - "English for Science"
-preview : /media/sf_shared/image/fat_droplet.jpg
+preview : Lipid_droplet.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -19,14 +19,14 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![3D electron microscopy of macrophage infected by bacteria (blue) showing lipid droplets (green) and the cell surface (pink). (Institute for Molecular Bioscience, University of Queensland)](/media/sf_shared/image/fat_droplet.jpg)
 
 ## Summary 
 
 University of Queenlands researchers have discovered that lipid droplets fight bacteria. Our cells produce toxic proteins, surround them with lipids and then send them out to kill pathogens. Lipid droplets are also a useful source of energy for mitochondria when there are not enough nutrients.
 
 ## Source of the article with publication date and word count :
-Source of the article : <https://www.genengnews.com/news/fat-droplets-in-cells-rally-against-bacteria/>[link] published on  October 16, 2020 and accessed on October 24, 2020
+Source of the [article] (https://www.genengnews.com/news/fat-droplets-in-cells-rally-against-bacteria/).
+Published on  October 16, 2020 and accessed on October 24, 2020
 
 Word count : 548
 

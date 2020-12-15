@@ -1,12 +1,12 @@
 .distill-site-nav {
   color: red;
-  background-color: purple;
+  background-color: #b9f6ff;
   font-size: 15px;
   font-weight: 300;
 }
 
 .distill-site-nav a {
-  color: black;
+  color: white;
   text-decoration: none;
 }
 

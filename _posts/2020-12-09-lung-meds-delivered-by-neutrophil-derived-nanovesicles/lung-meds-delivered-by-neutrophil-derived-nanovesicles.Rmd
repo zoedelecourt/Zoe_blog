@@ -1,13 +1,14 @@
 ---
-title: "Medicine-carriers made from human cells can cure lung infections"
+title: "Article 4"
 description: |
-  
+  Medicine-carriers made from human cells can cure lung infections
 author:
   - name: Zoé De Le Court
-    url: {https://github.com/zoedelecourt}
+    url: https://github.com/zoedelecourt
 date: 12-09-2020
 categories:
   - "English for Science"
+preview: Neutrophil.png
 output:
   distill::distill_article:
     self_contained: false
