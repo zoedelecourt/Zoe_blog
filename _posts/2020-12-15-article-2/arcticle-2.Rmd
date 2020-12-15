@@ -17,13 +17,14 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+![](wasp.jpg)
 
 ## Summary 
 Scientists found out that some polypeptides toxin from wasp venom could be very useful to struggle against bacteria. They modified it to make it more efficient and less dangerous for humans.
 
 
 ## Source of the article with publication date and word count :
-Source of the [article](https://www.genengnews.com/topics/drug-discovery/wasp-venom-used-to-potentially-combat-antibiotic-resistant-bacteria/).
+[Source of the article](https://www.genengnews.com/topics/drug-discovery/wasp-venom-used-to-potentially-combat-antibiotic-resistant-bacteria/).
 Published on  October 14, 2020 and accessed on November 24, 2020
 
 Word count : 627

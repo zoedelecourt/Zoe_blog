@@ -17,12 +17,13 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+![](Gut-Brain.jpg)
 
 ## Summary 
 Scientists have found plasma cells in the meninges (the membranes that surround the brain and spinal cord) which are trained in the gut to react to pathogens located in the brain by releasing antibodies.
 
 ## Source of the article with publication date and word count :
-Source of the [article](https://www.sciencenews.org/article/brain-infection-gut-immune-system). Published on  November 11, 2020 and accessed on November 30, 2020
+[Source of the article](https://www.sciencenews.org/article/brain-infection-gut-immune-system). Published on  November 11, 2020 and accessed on November 30, 2020
 
 Word count : 667
 

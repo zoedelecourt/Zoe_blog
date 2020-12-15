@@ -17,13 +17,14 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+![Representation of the white cell used as a medicine-carriers : a neutrophil ](Neutrophil.png)
 
 ## Summary 
 Researchers injected anti-inflammatory and antibiotic into empty white cells to target the infected mouse lungs 
 
 
 ## Source of the article with publication date and word count :
-Source of the [article](https://phys.org/news/2020-12-medicine-carriers-human-cells-lung-infections.html).
+[Source of the article](https://phys.org/news/2020-12-medicine-carriers-human-cells-lung-infections.html).
 Published on  December 3, 2020 and accessed on December 9, 2020
 
 Word count : 415

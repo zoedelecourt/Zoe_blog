@@ -6,6 +6,7 @@ date: "`r Sys.Date()`"
 categories:
   - "English for Science"
   - "M.E.A.L."
+preview : english.jpg
 output: distill::distill_article
 ---
 Here are a some activities I did in English

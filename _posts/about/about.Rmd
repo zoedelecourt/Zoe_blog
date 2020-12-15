@@ -3,6 +3,7 @@ title: "About Me"
 author: 
   - name: "Zoé De Le Court" 
 date: "`r Sys.Date()`"
+preview: bitmoji_LI.jpg
 output: distill::distill_article
 ---
 I'm Zoé De Le Court, a 19 years old student in Biology and I'm already in my second year! I chose this study at first because I liked sciences and I was really interested in how the human functions and how to cure diseases but I knew I didn't want to become a physician. In the end I truly enjoy most of my classes even though in the beginning I was scared I wouldn't like studying plants or animals. 

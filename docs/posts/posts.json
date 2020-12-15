@@ -1,5 +1,38 @@
 [
   {
+    "path": "posts/about/",
+    "title": "About Me",
+    "description": {},
+    "author": [
+      {
+        "name": "Zoé De Le Court",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-15",
+    "categories": [],
+    "preview": "posts/about/bitmoji_LI.jpg",
+    "last_modified": "2020-12-15T22:52:11+01:00"
+  },
+  {
+    "path": "posts/meal/",
+    "title": "My English Activity Log : MEAL",
+    "description": {},
+    "author": [
+      {
+        "name": "Zoé De Le Court",
+        "url": {}
+      }
+    ],
+    "date": "2020-12-15",
+    "categories": [
+      "English for Science",
+      "M.E.A.L."
+    ],
+    "preview": "posts/meal/english.jpg",
+    "last_modified": "2020-12-15T23:16:30+01:00"
+  },
+  {
     "path": "posts/2020-12-09-lung-meds-delivered-by-neutrophil-derived-nanovesicles/",
     "title": "Article 4",
     "description": "Medicine-carriers made from human cells can cure lung infections",
@@ -14,42 +47,9 @@
       "English for Science"
     ],
     "preview": "posts/2020-12-09-lung-meds-delivered-by-neutrophil-derived-nanovesicles/Neutrophil.png",
-    "last_modified": "2020-12-15T12:42:07+01:00",
+    "last_modified": "2020-12-15T23:24:32+01:00",
     "preview_width": 1165,
     "preview_height": 1130
-  },
-  {
-    "path": "posts/about/",
-    "title": "About Me",
-    "description": {},
-    "author": [
-      {
-        "name": "Zoé De Le Court",
-        "url": {}
-      }
-    ],
-    "date": "2020-12-01",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-12-01T09:58:35+01:00"
-  },
-  {
-    "path": "posts/meal/",
-    "title": "My English Activity Log : MEAL",
-    "description": {},
-    "author": [
-      {
-        "name": "Zoé De Le Court",
-        "url": {}
-      }
-    ],
-    "date": "2020-12-01",
-    "categories": [
-      "English for Science",
-      "M.E.A.L."
-    ],
-    "preview": {},
-    "last_modified": "2020-12-01T09:58:47+01:00"
   },
   {
     "path": "posts/2020-11-30-Protecting the brain from infection may start with a gut reaction/",
@@ -66,26 +66,24 @@
       "English for Science"
     ],
     "preview": "posts/2020-11-30-Protecting the brain from infection may start with a gut reaction/Gut-Brain.jpg",
-    "last_modified": "2020-12-15T12:41:58+01:00"
+    "last_modified": "2020-12-15T23:20:49+01:00"
   },
   {
-    "path": "posts/wasp venom against bacteria/",
-    "title": "Wasp Venom used to potentially combat antibiotic-resistant bacteria ",
-    "description": {},
+    "path": "posts/2020-12-15-article-2/",
+    "title": "Article 2",
+    "description": "Wasp Venom used to potentially combat antibiotic-resistant bacteria",
     "author": [
       {
         "name": "Zoé De Le Court",
-        "url": {
-          "https://github.com/zoedelecourt": {}
-        }
+        "url": "https://github.com/zoedelecourt"
       }
     ],
     "date": "2020-11-24",
     "categories": [
       "English for Science"
     ],
-    "preview": {},
-    "last_modified": "2020-11-24T16:32:44+01:00"
+    "preview": "posts/2020-12-15-article-2/wasp.jpg",
+    "last_modified": "2020-12-15T23:21:06+01:00"
   },
   {
     "path": "posts/2020-11-14-graphicdescription/",
@@ -121,6 +119,6 @@
       "English for Science"
     ],
     "preview": "posts/2020-10-24-fats-fighting-back-against-bacteria/Lipid_droplet.jpg",
-    "last_modified": "2020-12-15T12:38:28+01:00"
+    "last_modified": "2020-12-15T23:24:27+01:00"
   }
 ]
