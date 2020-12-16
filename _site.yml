@@ -5,6 +5,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Table of contents"
+      href: "posts/2020-12-16-tableofcontents/index.html"
     - text: "M.E.A.L."
       href: "posts/meal/index.html"
     - text: "About Me"

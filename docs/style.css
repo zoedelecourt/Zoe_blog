@@ -25,3 +25,8 @@
     display: none;
   }
 }
+/* Change link appearance */
+d-article a {
+  border-bottom: 2px solid #DD8080;
+  text-decoration: none;
+}
