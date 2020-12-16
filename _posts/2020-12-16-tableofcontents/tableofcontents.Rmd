@@ -1,5 +1,5 @@
 ---
-title: "Table of contents of my english portfolio"
+title: "Table of contents of my English portfolio"
 description: |
 author:
   - name: Zoé De Le Court
