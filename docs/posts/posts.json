@@ -16,7 +16,7 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2020-12-16T01:09:03+01:00"
+    "last_modified": "2020-12-16T01:09:04+01:00"
   },
   {
     "path": "posts/about/",
@@ -106,7 +106,7 @@
   },
   {
     "path": "posts/2020-11-14-graphicdescription/",
-    "title": "graphic description",
+    "title": "Graphic description",
     "description": "Analysis of a graphic about urchins for my ssd class.",
     "author": [
       {
@@ -121,7 +121,7 @@
       "Data Sciences I"
     ],
     "preview": "posts/2020-11-14-graphicdescription/urchin.JPG",
-    "last_modified": "2020-12-15T12:37:34+01:00"
+    "last_modified": "2020-12-16T02:19:22+01:00"
   },
   {
     "path": "posts/2020-10-24-fats-fighting-back-against-bacteria/",

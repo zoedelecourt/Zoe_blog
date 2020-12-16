@@ -1,5 +1,5 @@
 ---
-title: "graphic description"
+title: "Graphic description"
 description: |
   Analysis of a graphic about urchins for my ssd class.
 author:

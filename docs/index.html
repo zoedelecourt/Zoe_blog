@@ -19,26 +19,26 @@
  <!--/radix_placeholder_import_source-->
 
   <!--radix_placeholder_meta_tags-->
-  <title>Zoe's Blog: Zoe's blog</title>
+  <title>Zoe's Blog: Recent posts</title>
   
   
   
   
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Zoe&#39;s Blog: Zoe&#39;s blog"/>
+  <meta property="og:title" content="Zoe&#39;s Blog: Recent posts"/>
   <meta property="og:type" content="article"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="Zoe&#39;s Blog"/>
   
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Zoe&#39;s Blog: Zoe&#39;s blog"/>
+  <meta property="twitter:title" content="Zoe&#39;s Blog: Recent posts"/>
   
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":["Zoe's blog"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":["Recent posts"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -1281,6 +1281,10 @@
   
   .distill-site-footer {
   }
+  ul > li::marker {
+    font-size: 1.125em;
+    color:#DD8080 ;
+  }
   
   @media print {
     .distill-site-nav {
@@ -1305,7 +1309,7 @@
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Zoe's blog","authors":[]}
+{"title":"Recent posts","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -1317,9 +1321,28 @@
 </div>
 <div class="nav-right">
 <a href="index.html">Home</a>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+English for sciences
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
 <a href="posts/2020-12-16-tableofcontents/index.html">Table of contents</a>
 <a href="posts/meal/index.html">M.E.A.L.</a>
+</div>
+</div>
 <a href="posts/about/index.html">About Me</a>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+Data Sciences 1
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="posts/2020-11-14-graphicdescription/index.html">Graphic description</a>
+</div>
+</div>
 <a href="https://github.com/zoedelecourt/Zoe_blog.git">
 <i class="fab fa-github"></i>
 </a>
@@ -1649,13 +1672,15 @@ function init_posts_list() {
 
 <div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
 <div class="posts-list">
-<h1 class="posts-list-caption">Zoe's blog</h1>
+<h1 class="posts-list-caption">Recent posts</h1>
 <a href="posts/2020-12-16-tableofcontents/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":["English for Science"]}</script>
 <div class="metadata">
-<div class="publishedDate">Dec. 15, 2020</div>
+<div class="publishedDate">Dec. 16, 2020</div>
 </div>
-<div class="thumbnail"></div>
+<div class="thumbnail">
+<img/>
+</div>
 <div class="description">
 <h2>Table of contents of my English portfolio</h2>
 <p></p>
@@ -1735,7 +1760,7 @@ function init_posts_list() {
 <img data-src="posts/2020-11-14-graphicdescription/urchin.JPG"/>
 </div>
 <div class="description">
-<h2>graphic description</h2>
+<h2>Graphic description</h2>
 <p>Analysis of a graphic about urchins for my ssd class.</p>
 </div>
 </a>
@@ -1779,7 +1804,7 @@ function init_posts_list() {
 <!--/radix_placeholder_article_listing-->
 
 <div class="d-title">
-<h1>Zoe’s blog</h1>
+<h1>Recent posts</h1>
 
 </div>
 
@@ -1788,6 +1813,16 @@ function init_posts_list() {
 <div class="layout-chunk" data-layout="l-body">
 
 </div>
+<h1 id="welcome-to-my-blog">Welcome to my blog !</h1>
+<ul>
+<li>On this scientific blog you can find several topics:
+<ul>
+<li>You are eager to know more about how we fight against pathogens ? <a href="https://zoedelecourt.github.io/Zoe_blog/posts/2020-12-16-tableofcontents/">Click here</a></li>
+<li>You want to know more about me ? <a href="https://zoedelecourt.github.io/Zoe_blog/posts/about/">Click here</a></li>
+<li>You are curious about the activities I do to improve my English? <a href="https://zoedelecourt.github.io/Zoe_blog/posts/meal/">Click here</a></li>
+<li>You are interested in Data Sciences ? <a href="https://zoedelecourt.github.io/Zoe_blog/posts/2020-11-14-graphicdescription/">Click here</a></li>
+</ul></li>
+</ul>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
