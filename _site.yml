@@ -5,18 +5,12 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "English for sciences"
-      menu :
-      - text: "Table of contents"
-        href: "posts/2020-12-16-tableofcontents/index.html"
-      - text : "M.E.A.L."
-        href: "posts/meal/index.html"
+    - text: "Table of contents"
+      href: "posts/2020-12-16-tableofcontents/index.html"
+    - text : "M.E.A.L."
+      href: "posts/meal/index.html"
     - text: "About Me"
       href: "posts/about/index.html"
-    - text: "Data Sciences 1"
-      menu:
-      - text : "Graphic description"
-        href: "posts/2020-11-14-graphicdescription/index.html"
     - icon: fab fa-github
       href: https://github.com/zoedelecourt/Zoe_blog.git
 base_url: http://zoedelecourt.github.io/Zoe_blog/

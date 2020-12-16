@@ -7,12 +7,12 @@ listing: posts
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
 ```
-# Welcome to my blog !
+# Welcome to my English blog !
  
  
  
 - On this scientific blog you can find several topics:
-    + You are eager to know more about how we fight against pathogens ? [Click here](https://zoedelecourt.github.io/Zoe_blog/posts/2020-12-16-tableofcontents/)
-    + You want to know more about me ? [Click here](https://zoedelecourt.github.io/Zoe_blog/posts/about/) 
-    + You are curious about the activities I do to improve my English? [Click here](https://zoedelecourt.github.io/Zoe_blog/posts/meal/)
-    + You are interested in Data Sciences ? [Click here](https://zoedelecourt.github.io/Zoe_blog/posts/2020-11-14-graphicdescription/)
+    + You are eager to know more about how we **fight against pathogens** ? [Click here](https://zoedelecourt.github.io/Zoe_blog/posts/2020-12-16-tableofcontents/)
+    + You want to know more **about me** ? [Click here](https://zoedelecourt.github.io/Zoe_blog/posts/about/) 
+    + You are curious about the activities I do to **improve my English**? [Click here](https://zoedelecourt.github.io/Zoe_blog/posts/meal/)
+    + You are interested in **Data Sciences** ? [Click here](https://zoedelecourt.github.io/Zoe_blog/posts/2020-11-14-graphicdescription/)

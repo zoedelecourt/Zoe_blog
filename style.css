@@ -11,7 +11,7 @@
 }
 
 .distill-site-nav a:hover {
-  color: black;
+  color: white;
 }
 
 .distill-site-header {
@@ -34,3 +34,4 @@ d-article a {
   border-bottom: 2px solid #DD8080;
   text-decoration: none;
 }
+
