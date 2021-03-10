@@ -1,0 +1,65 @@
+---
+title: "article 5"
+description: |
+  Vaccine Delivery through Skin Scarification Could Be Solution in Controlling Respiratory Diseases
+author:
+  - name: Zoé De Le Court
+    url:
+      https://github.com/zoedelecourt: {}
+date: 03-09-2021
+categories:
+  - "English for Science"
+preview : poumons.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![lung infection](poumons.jpg)
+
+## Source of the article with publication date and word count :
+[Source of the article](https://www.genengnews.com/topics/drug-discovery/vaccine-delivery-through-skin-scarification-could-be-solution-in-controlling-respiratory-diseases/).
+Published on  January 28, 2021 and accessed on March 9, 2020
+
+Word count : 761
+
+## Vocabulary: 
+| Word from the text | Synonym/definition in English          | French translation                      |
+|--------------------|----------------------------------------|-----------------------------------------|
+| keenly             | ardently, eagerly                      | vivement                                |
+| smallpox           | type of disease                        | variole                                 |
+| overlapping        | having something in common             | qui ont des points communs              |
+| lung-homing T cell | T-cell heading by itself to the lungs  | lymphocyte T autoguidé vers les poumons |
+| spurred            | stimulated                             | stimulé                                 |
+| serendipitous      | found by chance                        | fortuite                                |
+|                    |                                        |                                         |
+|                    |                                        |                                         |
+|                    |                                        |                                         |
+|                    |                                        |                                         |
+|                    |                                        |                                         |
+|                    |                                        |                                         |
+|                    |                                        |                                         |
+|                    |                                        |                                         |
+
+
+## Analysis table
+
+- Researchers? 
+    + Harvard Medical School : Thomas Kupper
+- Published in? when (if mentioned)?
+    + Npj vaccines (04/01/2021)  
+- General topic
+    + Scratching the skin with a needle to inject a vaccine could help create T-cell involved in the lung's immune reaction
+- Procedure/what was examined
+    + They inoculated the smallpox vaccine to mice using different methods: skin scarification, intramuscular, subcutaneous and intradermal injection
+    
+- Conclusions/ discovery
+    + Mice which had the vaccine using skin scarification produced more T-cells in general but most importantly more lung-specific T-cell.Therefore they were resistant to lethal viral doses 
+
+- Remaining questions ? 
+    + Will this phenomenon also happened in the human body ?
+
