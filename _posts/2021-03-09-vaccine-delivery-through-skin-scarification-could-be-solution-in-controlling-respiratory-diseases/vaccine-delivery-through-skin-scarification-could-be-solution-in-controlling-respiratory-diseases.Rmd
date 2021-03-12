@@ -1,5 +1,5 @@
 ---
-title: "article 5"
+title: "Article 5"
 description: |
   Vaccine Delivery through Skin Scarification Could Be Solution in Controlling Respiratory Diseases
 author:
@@ -19,7 +19,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![lung infection](poumons.jpg)
+![Lung infection](poumons.jpg)
 
 ## Source of the article with publication date and word count :
 [Source of the article](https://www.genengnews.com/topics/drug-discovery/vaccine-delivery-through-skin-scarification-could-be-solution-in-controlling-respiratory-diseases/).
