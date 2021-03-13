@@ -37,13 +37,6 @@ Word count : 761
 | spurred            | stimulated                             | stimulé                                 |
 | serendipitous      | found by chance                        | fortuite                                |
 |                    |                                        |                                         |
-|                    |                                        |                                         |
-|                    |                                        |                                         |
-|                    |                                        |                                         |
-|                    |                                        |                                         |
-|                    |                                        |                                         |
-|                    |                                        |                                         |
-|                    |                                        |                                         |
 
 
 ## Analysis table

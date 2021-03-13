@@ -7,6 +7,9 @@ author:
     url:
       https://github.com/zoedelecourt: {}
 date: 03-12-2021
+categories:
+  - "English for Science"
+preview : ebola.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +18,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
+![Ebola virus](ebola.jpg)
 ## Source of the article with publication date and word count :
 [Source of the article](https://www.genengnews.com/topics/drug-discovery/small-molecules-target-entry-mechanism-for-deadly-viruses/).
 Published on  February 9, 2021 and accessed on March 12, 2020
@@ -43,6 +46,6 @@ Word count : 552
 - Procedure/what was examined
     + They observed the interactions between different drugs and the virus with various techniques : molecular, biophysical, and structural
 - Conclusions/ discovery
-    + They found out several drugs binds to a specific glycoprotein site of virus necessary to infect the cells. They observed a specific binding site for Ebolavirus, an other one for Marburgvirus which is also present in Ebolavirus and they also found out that by trapping the drug in a lysosome it helps the viral inhibition. As there is already an other site where molecules can bind, we could use drugs that recognized both site to lower the doses and reducing the chance of mutations. 
+    + They found out several drugs binds to a specific glycoprotein site of virus necessary to infect the cells. They observed a specific binding site for Ebolavirus, an other one for Marburgvirus which is also present in Ebolavirus and they also found out that by trapping the drug in a lysosome helps the viral inhibition. As there is already an other site where molecules can bind, we could use drugs that recognized both site to lower the doses and reducing the chance of mutations. 
 - Remaining questions ? 
     + /
