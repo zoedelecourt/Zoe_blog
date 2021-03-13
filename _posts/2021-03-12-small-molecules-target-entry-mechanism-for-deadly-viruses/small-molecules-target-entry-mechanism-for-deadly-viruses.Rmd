@@ -4,8 +4,7 @@ description: |
   Small Molecules Target Entry Mechanism for Deadly Viruses
 author:
   - name: Zoé De Le Court
-    url:
-      https://github.com/zoedelecourt: {}
+    url: https://github.com/zoedelecourt
 date: 03-12-2021
 categories:
   - "English for Science"

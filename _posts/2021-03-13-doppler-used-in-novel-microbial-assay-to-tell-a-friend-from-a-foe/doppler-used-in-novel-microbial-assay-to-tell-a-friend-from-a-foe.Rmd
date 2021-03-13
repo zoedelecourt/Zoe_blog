@@ -4,8 +4,7 @@ description: |
   Doppler Used in Novel Microbial Assay To Tell a Friend from a Foe.
 author:
   - name: Zoé De Le Court
-    url:
-      https://github.com/zoedelecourt: {}
+    url: https://github.com/zoedelecourt
 date: 03-13-2021
 categories:
   - "English for Science"
