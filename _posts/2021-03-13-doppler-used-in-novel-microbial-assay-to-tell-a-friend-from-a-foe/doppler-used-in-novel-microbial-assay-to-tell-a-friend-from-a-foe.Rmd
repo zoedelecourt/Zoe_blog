@@ -44,9 +44,9 @@ Word count : 679
 - Published in? when (if mentioned)?
     + Communications Biology (10/02/2021)
 - General topic
-    +Scientists used the Doppler effect to identify if a microorganism is pathogenic or not
+    + Scientists used the Doppler effect to identify if a microorganism is pathogenic or not
 - Procedure/what was examined
-    + They put immortalized cell lines in presence of different bacteria such as *Salmonella* and *E. coli* and used the Doppler effect to observe the reaction of the cells. They did in vitro tissue cultures and noticed that cells acted to protect the tissue against the pathogen. If there is a significant change in the Doppler signal, that means that the microbe is pathogenic otherwise it is harmless. This technology can be used to detect which antibiotic is needed in case of sepsis. If we see a change in the doppler signal in the infected tissue, this means the antibiotic is working, 
+    + They put immortalized cell lines in presence of different bacteria such as *Salmonella* and *E. coli* and used the Doppler effect to observe the reaction of the cells. They did it in vitro tissue cultures and noticed that cells acted to protect the tissue against the pathogen. If there is a significant change in the Doppler signal, that means that the microbe is pathogenic otherwise it is harmless. This technology can be used to detect which antibiotic is needed in case of sepsis. If we see a change in the doppler signal in the infected tissue, this means the antibiotic is working.
 - Conclusions/ discovery
     + This technique is faster than usual techniques and could help in diagnosis and treatment of infections
 - Remaining questions ? 
