@@ -1,0 +1,21 @@
+---
+title: "Introduction"
+description: |
+author:
+  - name: Zoé De Le Court
+    url: https://github.com/zoedelecourt
+date: 04-19-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The struggle against pathogens is a universal problem. Since the beginning of time, we have been fighting those invaders. But what are they really? Pathogens are agents that cause diseases. The most common are virus and bacteria but we can also mention parasitic worms. Everyday, our body is exposed to foreign organisms that try to use you as a comfortable shelter for their development. Our immune system is in charge of defending you against those infectious agents. Our white blood cells are constantly navigating through your entire bloodstream to spot any signs of danger. When they identify an intruder thanks to an antigen on its surface, they emit a chemical that alerts the other leukocytes (=white blood cells) and the immune respond begins. White blood cells multiply and a special type, the lymphocytes produce antibody to neutralize the threat. One of the wonderful abilities of our immune system is its immunological Memory. Once you had been in contact with an invaders, your immune system remembers it and can therefore launch a quick and effective attack. 
+But sometimes our immune system isn't strong enough to fight the enemy and needs a little bit of helps. This is where scientists come in, they developed thousand of medications to prevent and cure those diseases. One of the most revolutionary discoveries in this field is antibiotics, a medication that destroy or block the growth of bacteria. However, there is a huge issue. Bacteria, as all living organisms, evolve and thus develop resistance to antibiotics. Among the scientist community, this problem is highly studied and they try to bypass it with new treatments. 
+In this portfolio, you are going to learn about the mysteries behind pathogens and how our incredible body is responding to them. Did you know our cells produce a toxic protein, surround it with lipids to protect it and then send it to the inflamed site? Even more surprising, our defenses in the brain are actually trained in the gut. Furthermore, you're going to learn about amazing scientist findings to enhance our defense such as wasp venom to kill bacteria. Or a modified white blood cell used to carry medicine. Not to mention a molecule that that blocks viruses from entering our body. Or a most effective way of vaccination. Last but not least, I'm going to tell you about a new methods to detect pathogens. 

@@ -54,7 +54,7 @@ Word count : 548
     + In liver cells of a mouse, they observed how the lipid droplet proteome (the entire set of proteins) reacted to  the bacterial toxin lipopolysaccharide. The proteome grew bigger and the lipid droplet increased the number of proteins with an antimicrobial activity. Then the droplets went to the infected site.
     
 - Conclusions/ discovery
-    + Fat helping our immune system will be very uselful in particular with antibiotic-resistant superbugs
+    + Fat helping our immune system will be very useful in particular with antibiotic-resistant superbugs
 
 - Remaining questions ? 
     + How do fatty droplets target the pathogens?

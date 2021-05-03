@@ -1,0 +1,21 @@
+---
+title: "Conclusion"
+description: | 
+author:
+  - name: Zoé De Le Court
+    url: https://github.com/zoedelecourt
+date: 04-19-2021
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+The battle against pathogens is far from being won, we are making progress but a lot of questions remain unanswered. There is still a lot to discover and maybe I'll have the chance to contribute to this research subject. We will certainly never fully understand the complexity of these organisms and how our body is responding to them but we can try. It is even harder because those infectious agents are evolving with us. I think one of the most important goals of scientists today is to find a solution to bacterial resistance.
+This portfolio taught me a lot about this particularly interesting subject and how creative our body and scientists are to protect us. But not only that, it also helped me to improve my skills in English as I learned a lot of scientific vocabularies which will be very useful in the future. Furthermore, I developed my writing and summary skills. Even if it wasn't always easy, for instance, I had some troubles finding relevant articles  or sometimes the understanding of the scientific method was hard, I found this project very instructive.
